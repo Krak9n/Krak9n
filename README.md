@@ -15,7 +15,9 @@ Trying myself in all kinds of work that indusry needs. Artist, Sound-Designer(am
 - **Software:** Reaper, Krita
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krak9n&show_icons=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krak9n&layout=compact&theme=dark)](https://github.com/Krak9n)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krak9n&layout=compact&theme=dark)]
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Krak9n?theme=dark&font=Abel&ext=activity)](https://leetcode.com/Krak9n/)
 
 ### Connection
 I am always opened to cooperations and working in team. 
