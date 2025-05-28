@@ -1,8 +1,4 @@
-## Welcome
-
-### Who am i? 
-
-I am a begginer Game Development. Work with various of languages and frameworks. Trying myself in all kinds of work that indusry needs. 
+Begginer in life welcomes you here. 
 
 ###  Tech Stack  
 - **Languages:** Java, C, C++, Lua, JavaScript  
