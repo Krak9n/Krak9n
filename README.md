@@ -1,7 +1,8 @@
 Begginer in life welcomes you here. 
 
 ###  Tech Stack  
-- **Languages:** Java, C, C++, Lua, JavaScript  
+- **Graphic APIs:** Vulkan, OpenGL
+- **Languages:** Java, Rust, C, C++, Lua, JavaScript  
 - **Frameworks:** LÖVE2D  
 - **Engines:** Unreal Engine 5
 - **Software:** Blender, Reaper, Krita
