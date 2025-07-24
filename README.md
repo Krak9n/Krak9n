@@ -1,4 +1,4 @@
-Begginer in life welcomes you here. 
+Beginner in life welcomes you here. 
 
 ###  Tech Stack  
 - **Graphic APIs:** Vulkan, OpenGL
