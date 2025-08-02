@@ -12,8 +12,8 @@ beginner in life welcomes you here.
 `python` = has been learning for 5 years, still don't get it <br />
 
 **related** <br />
-`krita, blender` = my to go apps <br />
-`unreal engine 5` = old to go engine <br />
+`krita, blender` = my go to apps for art <br />
+`unreal engine 5` = old go to engine <br />
 `reaper` = actively use for anything related to audio <br /> 
 
 \
