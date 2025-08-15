@@ -2,6 +2,7 @@ beginner in life welcomes you here.
 
 **tech stack** \
 `rust, c` = main languages \
+`zig` = learning \
 `love2d/lua` = satisfies basic needs \
 `bash` = scripting/automating things \
 `opengl, vulkan` = graphics apis \
