@@ -1,4 +1,7 @@
-beginner in life welcomes you here. 
+<samp>
+beginner in life welcomes you here. <br/>
+
+<br />
 
 **tech stack** \
 `rust, c` = main languages \
@@ -19,6 +22,6 @@ beginner in life welcomes you here.
 
 \
 for contacting me, please write here ---> **olhnts12@proton.me** <br />
-
+</samp>
 \
 ![](https://github.com/Krak9n/Krak9n/blob/34927a0767502587f829b30b3b4a66a7d2066384/Untitled%20Project.gif)
