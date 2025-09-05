@@ -1,9 +1,9 @@
 <samp>
-beginner in life welcomes you here. <br/>
+<!--beginner in life welcomes you here. <br/>-->
+my projects are in the process of moving to self-hosted way.
 
-<br />
-
-**tech stack** \
+fuck Microsoft. long live FOSS.
+<!--**tech stack** \
 `rust, c` = main languages \
 `zig` = learning \
 `love2d/lua` = satisfies basic needs \
@@ -18,9 +18,8 @@ beginner in life welcomes you here. <br/>
 **related** <br />
 `krita, blender` = my go to apps for art <br />
 `unreal engine 5` = old go to engine <br />
-`reaper` = actively use for anything related to audio <br /> 
+`reaper` = actively use for anything related to audio <br /> -->
 
-\
 for contacting me, please write here ---> **olhnts12@proton.me** <br />
 </samp>
 \
