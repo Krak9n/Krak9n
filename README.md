@@ -1,6 +1,6 @@
 <samp>
 <!--beginner in life welcomes you here. <br/>-->
-my projects are in the process of moving to self-hosted way.
+my projects are in the process of moving to gitea.
 
 fuck Microsoft. long live FOSS.
 <!--**tech stack** \
